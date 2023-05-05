@@ -1,0 +1,15 @@
+# Jupyter
+ipykernel
+jupyter-notebook
+
+# Required packages in notebooks
+gymnasium
+matplotlib
+numpy
+sklearn
+torch  # If you want to use GPU or Mac, see pytorch.org for install instructions 
+torchvision
+tqdm
+transformers
+evaluate
+datasets

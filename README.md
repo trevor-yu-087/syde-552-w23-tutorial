@@ -1,5 +1,5 @@
-# syde-552-w23-tutorial
-This repository has the collection of Jupyter notebooks used for tutorials in the Winter 2023 offering of BIOL487/SYDE552: Computational Neuroscience at the University of Waterloo. The course was instructed by Dr. Bryan Tripp and [Trevor Yu](https://github.com/trevor-yu-087) was the teaching assistant. As the course was being reworked, new tutorial content was developed. Tutorial 6 was developed by Bryan and the rest by Trevor.
+# Winter 2023 SYDE 552 Tutorials
+This repository has the collection of Jupyter notebooks used for tutorials in the Winter 2023 offering of BIOL487/SYDE552: Computational Neuroscience at the University of Waterloo. The course was instructed by [Dr. Bryan Tripp](https://uwaterloo.ca/systems-design-engineering/profile/bptripp) and [Trevor Yu](https://github.com/trevor-yu-087) was the teaching assistant. As the course was being reworked, new tutorial content was developed. Tutorial 6 was developed by Bryan and the rest by Trevor.
 
 The course covers topics in both neuroscience and deep learning, in particular, how computational methods in deep learning are related to neuroscience concepts. This set of tutorials focuses on developing practical skills related to numerical computing in Python and using PyTorch to implement and train various deep learning models discussed throughout the course. The following is a list of tutorial topics:
 1. Linear regression in scikit-learn
